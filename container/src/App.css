@@ -1,0 +1,8 @@
+.content {
+    display: flex;
+    gap: 50px;
+}
+
+.content > div {
+    width: 400px;
+}
